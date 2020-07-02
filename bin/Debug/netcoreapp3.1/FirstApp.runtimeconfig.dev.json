@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cerva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cerva\\.nuget\\packages"
+    ]
+  }
+}
